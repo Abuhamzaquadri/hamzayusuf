@@ -1,11 +1,8 @@
-<<<<<<< Updated upstream
 my name is abu hamza
 my name is abu hamza quadri 
 this is third line 
 this is fourth line 
-=======
 this is abu hamza 
 this is hamza yusuf 
 this is abu hamza quadri 
-this is sheikh abu hamza quadri 
->>>>>>> Stashed changes
+this is sheikh abu hamza quadri
